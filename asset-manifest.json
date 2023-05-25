@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.44fdfa8c.css",
+    "main.js": "/test/static/js/main.838cf4e2.js",
+    "static/js/787.b7b561c1.chunk.js": "/test/static/js/787.b7b561c1.chunk.js",
+    "static/media/Promote.svg": "/test/static/media/Promote.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/Income.svg": "/test/static/media/Income.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/product.svg": "/test/static/media/product.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/Help.svg": "/test/static/media/Help.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/Customers.svg": "/test/static/media/Customers.8262755cd49eb6fddb7f6d00ddf93ef8.svg",
+    "static/media/logo.svg": "/test/static/media/logo.fe984a6cdb2ef8c5a0b69a7ef20deea3.svg",
+    "static/media/dashboard.svg": "/test/static/media/dashboard.153a0eb179be0548729792a4f21fc52e.svg",
+    "index.html": "/test/index.html",
+    "static/media/search.svg": "/test/static/media/search.099d0e1d7fefe45def893d8c126c5fe0.svg",
+    "main.44fdfa8c.css.map": "/test/static/css/main.44fdfa8c.css.map",
+    "main.838cf4e2.js.map": "/test/static/js/main.838cf4e2.js.map",
+    "787.b7b561c1.chunk.js.map": "/test/static/js/787.b7b561c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fdfa8c.css",
+    "static/js/main.838cf4e2.js"
+  ]
+}
